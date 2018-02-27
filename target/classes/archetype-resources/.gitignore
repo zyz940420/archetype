@@ -1,0 +1,15 @@
+*.class
+target/
+*.iml
+.idea/
+target/
+logs/
+.classpath
+.project
+.settings/
+.amateras
+/target*
+*.log*
+*.jar
+*.war
+*.ear
