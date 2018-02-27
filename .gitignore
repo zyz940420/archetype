@@ -2,7 +2,7 @@
 target/
 *.iml
 .idea/
-target/
+target/*
 logs/
 .classpath
 .project
